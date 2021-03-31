@@ -153,14 +153,13 @@ ul {
   }
 
   .woman {
-    height: 300px;
+    height: 400px;
+    top: -24vh;
   }
 
   .woman-shadow {
-    position: absolute;
     top: 4vh;
-    left: 39%;
-    transform: translateX(-50%);
+    left: 59%;
     height: 209px;
   }
 }
